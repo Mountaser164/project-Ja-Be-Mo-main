@@ -10,6 +10,8 @@ class newsModels{
     public $user_id;
     public $image;
 
+    //hallo//
+
 
 
      public function __construct(){
