@@ -11,6 +11,8 @@ class newsModels{
     public $image;
 
     //hallo//
+        //hallo//
+
 
 
 
